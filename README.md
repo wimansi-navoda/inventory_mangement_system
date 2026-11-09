@@ -81,8 +81,8 @@ The database `InventoryDB` and all tables are **created automatically** on first
 
 ### Run locally
 ```bash
-git clone https://github.com/<wimansi-navoda>/<Inventory_management_system>.git
-cd <your-repo-name>
+git clone https://github.com/<wimansi-navoda>/<Inventory_Management_System>.git
+cd <Inventory_Management_System>
 ```
 
 1. Open the `.sln` file in Visual Studio.
