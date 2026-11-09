@@ -151,10 +151,10 @@ The target PC needs **SQL Server LocalDB** or **SQL Server Express**. To use a s
 ## Author
 
 wimansi
-GitHub: [@your-username]((https://github.com/wimansi-navoda))
+GitHub: [@wimansi-navoda]((https://github.com/wimansi-navoda))
 
 ---
 
 ## License
 
-This project is for educational purposes. Add a license (for example MIT) if you plan to share it publicly.
+This project is for educational purposes.
